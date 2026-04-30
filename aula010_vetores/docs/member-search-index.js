@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"vetores.model","c":"Notas","l":"calculoMedia(double[])"},{"p":"vetores.model","c":"Notas","l":"Notas()","u":"%3Cinit%3E()"},{"p":"vetores.model","c":"Notas","l":"verificarMaiorQueMedia(double, double[])","u":"verificarMaiorQueMedia(double,double[])"}];updateSearchResults();
